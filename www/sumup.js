@@ -1,4 +1,4 @@
-cordova.define("cordova-plugin-sumup.Sumup", function(require, exports, module) {
+
 var Sumup = function() {};
 
 /*var CountryError = function(code, message) {
@@ -37,4 +37,3 @@ if (module.exports) {
   module.exports = Sumup;
 }
 
-});
